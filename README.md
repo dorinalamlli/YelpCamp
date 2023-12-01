@@ -38,4 +38,4 @@ Run it locally
  
  7.Run mongod in another terminal and node app.js in the terminal with the project.
  
- 8. Go to localhost:3000.
+8. Go to localhost:3000.
